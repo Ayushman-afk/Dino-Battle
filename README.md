@@ -1,6 +1,7 @@
 # How to use
 
-Download the code and put it into any ide that supports python 
+go to - https://github.com/Ayushman-afk/Dino-Battle/releases/tag/v1.0.0
+Then download the DinoBattle file and then run it through downloads. It opens in windows powershell, which allows you to play the game
 
 # idea 
 
@@ -12,10 +13,3 @@ randomly.
 just a random idea that popped into my head, was pretty basic and easy to make, no need for any major bug fixes all I did was 
 rename variables to be better specified.
 
-# for a demo
-
-Just copy the code and run it into any free browser ide. 
-
-# ai 
-
-None was used. 
